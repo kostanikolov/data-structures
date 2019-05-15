@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00ff7a04-de70-4289-bb1a-3f9713fecbaa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="method#Tree#0;class#Tree#0" />
+                <element signature="method#print#0;class#Tree#0" />
+                <element signature="e#599#684#1" />
+                <element signature="method#each#0;class#Tree#0" />
+                <element signature="e#838#881#1" />
+                <element signature="method#orderBFS#0;class#Tree#0" />
+                <element signature="e#1404#1602#1" />
+                <element signature="e#1541#1592#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/PlayWithTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BinaryTreeTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+              <folding>
+                <element signature="method#buildBinaryTree_forEachTraversal_preOrder_shouldWorkCorrectly#0;class#BinaryTreeTests#0" />
+                <element signature="e#875#930#1" />
+                <element signature="method#buildBinaryTree_forEachTraversal_inOrder_shouldWorkCorrectly#0;class#BinaryTreeTests#0" />
+                <element signature="e#1818#1873#1" />
+                <element signature="method#buildBinaryTree_forEachTraversal_postOrder_shouldWorkCorrectly#0;class#BinaryTreeTests#0" />
+                <element signature="e#2765#2820#1" />
+                <element signature="method#buildBinaryTree_printIndentedPreOrder_shouldWorkCorrectly#0;class#BinaryTreeTests#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TreeTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+              <folding>
+                <element signature="e#144#155#0" />
+                <element signature="method#buildTree_printTree_shouldWorkCorrectly#0;class#TreeTests#0" />
+                <element signature="method#orderDFS_singleElement_shouldWordCorrectly#0;class#TreeTests#0" />
+                <element signature="e#2241#2305#1" />
+                <element signature="method#orderDFS_multipleElements_shouldWordCorrectly#0;class#TreeTests#0" />
+                <element signature="e#3249#3313#1" />
+                <element signature="method#orderBFS_singleElement_shouldWorkCorrectly#0;class#TreeTests#0" />
+                <element signature="e#3926#3990#1" />
+                <element signature="method#orderBFS_multipleElements_shouldWorkCorrectly#0;class#TreeTests#0" />
+                <element signature="e#4934#4998#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Tree.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Program.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/Tree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BinaryTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TreeTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/PlayWithTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="954" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic_tree_data_structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_tree_data_structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_tree_data_structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_tree_data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_tree_data_structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_tree_data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_tree_data_structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_tree_data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_tree_data_structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_tree_data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_tree_data_structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_tree_data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_tree_data_structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic_tree_data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554198540103" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../arraylist" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PlayWithTree">
+    <configuration name="PlayWithTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.PlayWithTree" />
+      <module name="basic_tree_data_structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in basic_tree_data_structures" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_tree_data_structures" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_tree_data_structures" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_tree_data_structures" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TreeTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTests.buildTree_forEachTraversal_shouldWorkCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="basic_tree_data_structures" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TreeTests" />
+      <option name="METHOD_NAME" value="buildTree_forEachTraversal_shouldWorkCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlayWithTree" />
+        <item itemvalue="JUnit.All in basic_tree_data_structures" />
+        <item itemvalue="JUnit.TreeTests" />
+        <item itemvalue="JUnit.BinaryTreeTests" />
+        <item itemvalue="JUnit.TreeTests.buildTree_forEachTraversal_shouldWorkCorrectly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ff7a04-de70-4289-bb1a-3f9713fecbaa" name="Default Changelist" comment="" />
+      <created>1553846861062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553846861062</updated>
+      <workItem from="1553846862827" duration="18652000" />
+      <workItem from="1554110191605" duration="9449000" />
+      <workItem from="1554190168808" duration="2668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TreeTests_buildTree_forEachTraversal_shouldWorkCorrectly - 2019.04.01 at 16h 24m 48s.xml">
+      <configuration name="TreeTests.buildTree_forEachTraversal_shouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests_buildTree_forEachTraversal_shouldWorkCorrectly - 2019.04.02 at 12h 25m 22s.xml">
+      <configuration name="TreeTests.buildTree_forEachTraversal_shouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests_orderDFS_multipleElements_shouldWordCorrectly - 2019.04.02 at 12h 26m 35s.xml">
+      <configuration name="TreeTests.orderDFS_multipleElements_shouldWordCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests_buildTree_forEachTraversal_shouldWorkCorrectly - 2019.04.02 at 12h 26m 48s.xml">
+      <configuration name="TreeTests.buildTree_forEachTraversal_shouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests - 2019.04.02 at 12h 27m 00s.xml">
+      <configuration name="TreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryTreeTests - 2019.04.02 at 12h 29m 51s.xml">
+      <configuration name="BinaryTreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests - 2019.04.02 at 12h 29m 58s.xml">
+      <configuration name="TreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_basic_tree_data_structures - 2019.04.02 at 12h 30m 06s.xml">
+      <configuration name="All in basic_tree_data_structures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_basic_tree_data_structures - 2019.04.02 at 12h 31m 11s.xml">
+      <configuration name="All in basic_tree_data_structures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_basic_tree_data_structures - 2019.04.02 at 12h 32m 15s.xml">
+      <configuration name="All in basic_tree_data_structures" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30769000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6782232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34236187" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24052005" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="78" column="43" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/CharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;class#CharSequence#0" />
+            <element signature="docComment;method#length#0;class#CharSequence#0" />
+            <element signature="docComment;method#charAt#0;class#CharSequence#0" />
+            <element signature="docComment;method#subSequence#0;class#CharSequence#0" />
+            <element signature="docComment;method#toString#0;class#CharSequence#0" />
+            <element signature="docComment;method#chars#0;class#CharSequence#0" />
+            <element signature="method#chars#0;class#CharSequence#0" />
+            <element signature="class#4528:5147" />
+            <element signature="method#nextInt#0;class#4528:5147" />
+            <element signature="e#4769#4830#1" />
+            <element signature="e#4836#4911#1" />
+            <element signature="method#forEachRemaining#0;class#4528:5147" />
+            <element signature="e#5057#5123#1" />
+            <element signature="docComment;method#codePoints#0;class#CharSequence#0" />
+            <element signature="method#codePoints#0;class#CharSequence#0" />
+            <element signature="class#6429:8099" />
+            <element signature="method#forEachRemaining#0;class#6429:8099" />
+            <element signature="e#6694#7349#0" />
+            <element signature="e#6735#7331#1" />
+            <element signature="e#6859#6932#1" />
+            <element signature="e#6938#7309#1" />
+            <element signature="e#7051#7196#1" />
+            <element signature="e#7202#7283#1" />
+            <element signature="e#7358#7406#0" />
+            <element signature="method#nextInt#0;class#6429:8099" />
+            <element signature="e#7631#7706#1" />
+            <element signature="e#7815#8048#1" />
+            <element signature="e#7914#8030#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt://C:/Program Files/Java/jdk-10.0.1!/java.base/java/util/stream/Collectors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#16792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/JumboEnumSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;class#JumboEnumSet#0" />
+            <element signature="docComment;field#elements#0;class#JumboEnumSet#0" />
+            <element signature="method#JumboEnumSet#0;class#JumboEnumSet#0" />
+            <element signature="method#addRange#0;class#JumboEnumSet#0" />
+            <element signature="e#1151#1290#1" />
+            <element signature="e#1296#1519#1" />
+            <element signature="method#addAll#0;class#JumboEnumSet#0" />
+            <element signature="method#complement#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#iterator#0;class#JumboEnumSet#0" />
+            <element signature="class#EnumSetIterator#0;class#JumboEnumSet#0" />
+            <element signature="docComment;field#unseen#0;class#EnumSetIterator#0;class#JumboEnumSet#0" />
+            <element signature="docComment;field#unseenIndex#0;class#EnumSetIterator#0;class#JumboEnumSet#0" />
+            <element signature="docComment;field#lastReturned#0;class#EnumSetIterator#0;class#JumboEnumSet#0" />
+            <element signature="docComment;field#lastReturnedIndex#0;class#EnumSetIterator#0;class#JumboEnumSet#0" />
+            <element signature="method#hasNext#0;class#EnumSetIterator#0;class#JumboEnumSet#0" />
+            <element signature="e#3523#3532#0" />
+            <element signature="method#next#0;class#EnumSetIterator#0;class#JumboEnumSet#0" />
+            <element signature="method#remove#0;class#EnumSetIterator#0;class#JumboEnumSet#0" />
+            <element signature="e#4268#4307#1" />
+            <element signature="docComment;method#size#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#isEmpty#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#contains#0;class#JumboEnumSet#0" />
+            <element signature="method#contains#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#add#0;class#JumboEnumSet#0" />
+            <element signature="method#add#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#remove#0;class#JumboEnumSet#0" />
+            <element signature="method#remove#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#containsAll#0;class#JumboEnumSet#0" />
+            <element signature="method#containsAll#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#addAll#1;class#JumboEnumSet#0" />
+            <element signature="method#addAll#1;class#JumboEnumSet#0" />
+            <element signature="e#8171#8365#1" />
+            <element signature="docComment;method#removeAll#0;class#JumboEnumSet#0" />
+            <element signature="method#removeAll#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#retainAll#0;class#JumboEnumSet#0" />
+            <element signature="method#retainAll#0;class#JumboEnumSet#0" />
+            <element signature="e#9750#9853#1" />
+            <element signature="docComment;method#clear#0;class#JumboEnumSet#0" />
+            <element signature="method#clear#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#equals#0;class#JumboEnumSet#0" />
+            <element signature="method#equals#0;class#JumboEnumSet#0" />
+            <element signature="docComment;method#recalculateSize#0;class#JumboEnumSet#0" />
+            <element signature="method#recalculateSize#0;class#JumboEnumSet#0" />
+            <element signature="method#clone#0;class#JumboEnumSet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Program.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/ExactComparisonCriteria.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/ComparisonCriteria.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="71" column="54" lean-forward="true" selection-start-line="71" selection-start-column="54" selection-end-line="71" selection-end-column="54" />
+          <folding>
+            <element signature="docComment;class#Iterable#0" />
+            <element signature="docComment;method#iterator#0;class#Iterable#0" />
+            <element signature="docComment;method#forEach#0;class#Iterable#0" />
+            <element signature="e#1865#1906#1" />
+            <element signature="docComment;method#spliterator#0;class#Iterable#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="method#Tree#0;class#Tree#0" />
+            <element signature="method#print#0;class#Tree#0" />
+            <element signature="e#599#684#1" />
+            <element signature="method#each#0;class#Tree#0" />
+            <element signature="e#838#881#1" />
+            <element signature="method#orderBFS#0;class#Tree#0" />
+            <element signature="e#1404#1602#1" />
+            <element signature="e#1541#1592#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BinaryTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="method#buildBinaryTree_forEachTraversal_preOrder_shouldWorkCorrectly#0;class#BinaryTreeTests#0" />
+            <element signature="e#875#930#1" />
+            <element signature="method#buildBinaryTree_forEachTraversal_inOrder_shouldWorkCorrectly#0;class#BinaryTreeTests#0" />
+            <element signature="e#1818#1873#1" />
+            <element signature="method#buildBinaryTree_forEachTraversal_postOrder_shouldWorkCorrectly#0;class#BinaryTreeTests#0" />
+            <element signature="e#2765#2820#1" />
+            <element signature="method#buildBinaryTree_printIndentedPreOrder_shouldWorkCorrectly#0;class#BinaryTreeTests#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="e#144#155#0" />
+            <element signature="method#buildTree_printTree_shouldWorkCorrectly#0;class#TreeTests#0" />
+            <element signature="method#orderDFS_singleElement_shouldWordCorrectly#0;class#TreeTests#0" />
+            <element signature="e#2241#2305#1" />
+            <element signature="method#orderDFS_multipleElements_shouldWordCorrectly#0;class#TreeTests#0" />
+            <element signature="e#3249#3313#1" />
+            <element signature="method#orderBFS_singleElement_shouldWorkCorrectly#0;class#TreeTests#0" />
+            <element signature="e#3926#3990#1" />
+            <element signature="method#orderBFS_multipleElements_shouldWorkCorrectly#0;class#TreeTests#0" />
+            <element signature="e#4934#4998#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/PlayWithTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>basic_tree_data_structures</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
