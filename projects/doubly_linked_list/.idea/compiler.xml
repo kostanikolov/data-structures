@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="doubly-linked-list" />
         <module name="doubly_linked_list" />
       </profile>
     </annotationProcessing>

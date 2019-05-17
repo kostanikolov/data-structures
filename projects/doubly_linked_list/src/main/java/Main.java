@@ -8,7 +8,7 @@ public class Main {
         System.out.println("################################");
 
         list.addLast(5);
-        list.addFirst(3);
+        list.addFirst(3); // 2 3 5 10
         list.addFirst(2);
         list.addLast(10);
         System.out.printf("Count = %d\n", list.size());
@@ -18,7 +18,7 @@ public class Main {
 
         list.removeFirst();
         list.removeLast();
-        list.removeFirst();
+        list.removeFirst(); // 5
 
         list.forEach(System.out::println);
         System.out.println("################################");
